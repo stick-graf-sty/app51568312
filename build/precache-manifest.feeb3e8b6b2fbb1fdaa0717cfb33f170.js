@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a63fa3676dc8bca022e533e1fdf81d5a",
+    "revision": "83645bb85f4d7fddbcb5bf79e3f1010d",
     "url": "./index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.113785ae.chunk.css"
   },
   {
-    "revision": "939cdc1f6ed97c21b40f",
-    "url": "./static/css/main.889e6f1e.chunk.css"
+    "revision": "c779b33e437365487ec7",
+    "url": "./static/css/main.43d6e29c.chunk.css"
   },
   {
     "revision": "9824c0dbd42608a68489",
     "url": "./static/js/2.5c397880.chunk.js"
   },
   {
-    "revision": "939cdc1f6ed97c21b40f",
+    "revision": "c779b33e437365487ec7",
     "url": "./static/js/main.3645d700.chunk.js"
   },
   {
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f661a8056d8cbfa46500658db3ccb646",
     "url": "./static/media/Manrope-Medium.f661a805.ttf"
+  },
+  {
+    "revision": "f85bb1cdeaa7c5fbbf3ac8dd263149c3",
+    "url": "./static/media/Manrope-SemiBold.f85bb1cd.ttf"
   },
   {
     "revision": "2640802b08e8f37e557305e1c116ccd4",
