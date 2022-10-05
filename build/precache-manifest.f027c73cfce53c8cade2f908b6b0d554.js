@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a11d6842d3190e76e560cb6ee7b9c085",
+    "revision": "eadcc691bd25a2658856c750d1d23a8e",
     "url": "./index.html"
   },
   {
-    "revision": "877277313b1fb43e421b",
+    "revision": "6cc819a27d67efeebc0d",
     "url": "./static/css/2.113785ae.chunk.css"
   },
   {
-    "revision": "2371e01e988c1b717f1b",
-    "url": "./static/css/main.43d6e29c.chunk.css"
+    "revision": "cdb8547abff2dd11ccfd",
+    "url": "./static/css/main.b91c766d.chunk.css"
   },
   {
-    "revision": "877277313b1fb43e421b",
-    "url": "./static/js/2.8d81a8bd.chunk.js"
+    "revision": "6cc819a27d67efeebc0d",
+    "url": "./static/js/2.e807ae58.chunk.js"
   },
   {
-    "revision": "2371e01e988c1b717f1b",
-    "url": "./static/js/main.9a7a8831.chunk.js"
+    "revision": "cdb8547abff2dd11ccfd",
+    "url": "./static/js/main.89a05c16.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -160,6 +160,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/SFUIText-Regular.888e0f3f.otf"
   },
   {
+    "revision": "7ba2fa5daf118630805ab0d47e53a8b4",
+    "url": "./static/media/Story0.7ba2fa5d.png"
+  },
+  {
+    "revision": "cf7c52a9d9d39f2a5fa5bb0849fec7a0",
+    "url": "./static/media/Story1.cf7c52a9.png"
+  },
+  {
+    "revision": "e5f7f8219961c83e7f4a57de22ee2eb8",
+    "url": "./static/media/Story2.e5f7f821.png"
+  },
+  {
+    "revision": "ff2e7b11b67803582a54818a3f2bef9b",
+    "url": "./static/media/Story3.ff2e7b11.png"
+  },
+  {
+    "revision": "b8cb8605678625967adf6ee71c42778f",
+    "url": "./static/media/Story4.b8cb8605.png"
+  },
+  {
     "revision": "c7c4799ed1182d24a48397cf98074b7f",
     "url": "./static/media/Stupid-Head.c7c4799e.ttf"
   },
@@ -192,79 +212,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "2e0596be67fb793e37069bc713ce3839",
-    "url": "./static/media/approval.2e0596be.svg"
+    "revision": "6f4d3f2af0afd4f282c98b2619463e4d",
+    "url": "./static/media/end.6f4d3f2a.svg"
   },
   {
-    "revision": "5d327ef6659c487263f9af8bb77441c2",
-    "url": "./static/media/bg.5d327ef6.png"
+    "revision": "2be9c393702640de6413fbc3203e2180",
+    "url": "./static/media/end_background.2be9c393.png"
   },
   {
-    "revision": "747c0e9675a62d748a6427240fabd605",
-    "url": "./static/media/bg.747c0e96.png"
+    "revision": "225b46d9c83d1ad57f860099adb2931f",
+    "url": "./static/media/group_avatar.225b46d9.png"
   },
   {
-    "revision": "85f638aa7093651ab65b592cc8156176",
-    "url": "./static/media/camera.85f638aa.png"
+    "revision": "5e475128a04292adc88715df8e5ed535",
+    "url": "./static/media/landing_1.5e475128.svg"
   },
   {
-    "revision": "57f683bc1131a33d8a0585a459f17960",
-    "url": "./static/media/death.57f683bc.svg"
+    "revision": "38ac18df9fff4f75297dd8a01b3b5ec3",
+    "url": "./static/media/result_background.38ac18df.png"
   },
   {
-    "revision": "2453b731d63576a6281366f41374873f",
-    "url": "./static/media/gear.2453b731.png"
+    "revision": "c615dccbca9c95bf83eeb683492429a4",
+    "url": "./static/media/searching.c615dccb.svg"
   },
   {
-    "revision": "ae88680f7ec2d766063c9611e40cd3f2",
-    "url": "./static/media/group.ae88680f.jpg"
+    "revision": "8751acf065143977f4331b41ac9ee548",
+    "url": "./static/media/text_bottom.8751acf0.png"
   },
   {
-    "revision": "b9e58a154331f42026e2c339c9e96f6e",
-    "url": "./static/media/ic_date_celebrity.b9e58a15.svg"
-  },
-  {
-    "revision": "92b0a139a47c4d22d6168606a4faf627",
-    "url": "./static/media/ic_door.92b0a139.svg"
-  },
-  {
-    "revision": "e1f83fe01958d8a7b23157391a667b13",
-    "url": "./static/media/ic_likes.e1f83fe0.svg"
-  },
-  {
-    "revision": "b390be996aaf9883edf9964b4325c2aa",
-    "url": "./static/media/ic_msg.b390be99.png"
-  },
-  {
-    "revision": "d74e16deda7891a5e6401eb776b801f7",
-    "url": "./static/media/ic_time.d74e16de.png"
-  },
-  {
-    "revision": "9076cf20c5e226c27cf664f4ac96b0e6",
-    "url": "./static/media/megaphone.9076cf20.svg"
-  },
-  {
-    "revision": "352587b0b682f25c5ccf444682904954",
-    "url": "./static/media/podium.352587b0.svg"
-  },
-  {
-    "revision": "fcb888b05c4b1cda059ea89f0d42aa07",
-    "url": "./static/media/poster_date_celebrity.fcb888b0.png"
-  },
-  {
-    "revision": "f47f5e9212e6219d85d9322317bd09b5",
-    "url": "./static/media/rocket.f47f5e92.png"
-  },
-  {
-    "revision": "7027a07aaa2c65530e9430a7477f512f",
-    "url": "./static/media/teddy-bear.7027a07a.png"
-  },
-  {
-    "revision": "e7c5d2855f61d9291d4bd41b3d16aa14",
-    "url": "./static/media/thinking.e7c5d285.svg"
-  },
-  {
-    "revision": "6de6aceab83fdc03319da6c3c5119c17",
-    "url": "./static/media/thumbs-up-sign.6de6acea.png"
+    "revision": "cbd60100061dc5c8792df5159b9e024b",
+    "url": "./static/media/text_top.cbd60100.png"
   }
 ]);
