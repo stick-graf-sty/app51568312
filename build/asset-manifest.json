@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.4d4b8101.chunk.css",
-    "main.js": "./static/js/main.69b9888a.chunk.js",
-    "main.js.map": "./static/js/main.69b9888a.chunk.js.map",
+    "main.css": "./static/css/main.fdcb67a7.chunk.css",
+    "main.js": "./static/js/main.27dd3b05.chunk.js",
+    "main.js.map": "./static/js/main.27dd3b05.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9d7e574d.js",
     "runtime-main.js.map": "./static/js/runtime-main.9d7e574d.js.map",
     "static/css/2.113785ae.chunk.css": "./static/css/2.113785ae.chunk.css",
-    "static/js/2.1ca20eaa.chunk.js": "./static/js/2.1ca20eaa.chunk.js",
-    "static/js/2.1ca20eaa.chunk.js.map": "./static/js/2.1ca20eaa.chunk.js.map",
+    "static/js/2.bea2a24a.chunk.js": "./static/js/2.bea2a24a.chunk.js",
+    "static/js/2.bea2a24a.chunk.js.map": "./static/js/2.bea2a24a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.fcac4291d58a8fea3dead1b363164e9c.js": "./precache-manifest.fcac4291d58a8fea3dead1b363164e9c.js",
+    "precache-manifest.f23c587e20c946717146bb69483583f5.js": "./precache-manifest.f23c587e20c946717146bb69483583f5.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.113785ae.chunk.css.map": "./static/css/2.113785ae.chunk.css.map",
-    "static/css/main.4d4b8101.chunk.css.map": "./static/css/main.4d4b8101.chunk.css.map",
+    "static/css/main.fdcb67a7.chunk.css.map": "./static/css/main.fdcb67a7.chunk.css.map",
     "static/media/Fonts.css": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf",
-    "static/media/story.jpg": "./static/media/story.28f93ee2.jpg"
+    "static/media/Story.png": "./static/media/Story.ad368e44.png",
+    "static/media/bg.png": "./static/media/bg.64b470e8.png",
+    "static/media/coolicon.edbb6b1e.svg": "./static/media/coolicon.edbb6b1e.svg",
+    "static/media/coolicon1.29eae712.svg": "./static/media/coolicon1.29eae712.svg",
+    "static/media/group_subscribe.png": "./static/media/group_subscribe.9ba1c89b.png",
+    "static/media/loading.png": "./static/media/loading.b3ce9c74.png",
+    "static/media/poster_vk_stats.png": "./static/media/poster_vk_stats.c0f19aed.png",
+    "static/media/result_bg.png": "./static/media/result_bg.84ecd858.png"
   }
 }
