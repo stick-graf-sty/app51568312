@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f708ca6913f94be3c34f93a5f1a07285",
+    "revision": "7c72337bf2e2cd068881f93a5a57fbd2",
     "url": "./index.html"
   },
   {
-    "revision": "aaa22fad97811a623832",
+    "revision": "41c4a3a204f281bf789d",
     "url": "./static/css/2.113785ae.chunk.css"
   },
   {
-    "revision": "783222d0fbe371e510f8",
-    "url": "./static/css/main.fdcb67a7.chunk.css"
+    "revision": "67207db3f36b710b80b4",
+    "url": "./static/css/main.4d4b8101.chunk.css"
   },
   {
-    "revision": "aaa22fad97811a623832",
-    "url": "./static/js/2.bea2a24a.chunk.js"
+    "revision": "41c4a3a204f281bf789d",
+    "url": "./static/js/2.1ca20eaa.chunk.js"
   },
   {
-    "revision": "783222d0fbe371e510f8",
-    "url": "./static/js/main.27dd3b05.chunk.js"
+    "revision": "67207db3f36b710b80b4",
+    "url": "./static/js/main.69b9888a.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -164,10 +164,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/SFUIText-Regular.888e0f3f.otf"
   },
   {
-    "revision": "ad368e443f57b0f1527b77afe953f22d",
-    "url": "./static/media/Story.ad368e44.png"
-  },
-  {
     "revision": "c7c4799ed1182d24a48397cf98074b7f",
     "url": "./static/media/Stupid-Head.c7c4799e.ttf"
   },
@@ -200,31 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "64b470e8f49de47c47d413e7c3a39a19",
-    "url": "./static/media/bg.64b470e8.png"
-  },
-  {
-    "revision": "edbb6b1e1daf9659df297e756373df9c",
-    "url": "./static/media/coolicon.edbb6b1e.svg"
-  },
-  {
-    "revision": "29eae71273d7496586fe50e4d3328785",
-    "url": "./static/media/coolicon1.29eae712.svg"
-  },
-  {
-    "revision": "9ba1c89b16f4fedc0416b6cc765d319e",
-    "url": "./static/media/group_subscribe.9ba1c89b.png"
-  },
-  {
-    "revision": "b3ce9c743f39c2ff49dada5ed7293db3",
-    "url": "./static/media/loading.b3ce9c74.png"
-  },
-  {
-    "revision": "c0f19aedf960cfc9a316a05a7c1929a6",
-    "url": "./static/media/poster_vk_stats.c0f19aed.png"
-  },
-  {
-    "revision": "84ecd858f2eac4961fdbc1b5702f39f6",
-    "url": "./static/media/result_bg.84ecd858.png"
+    "revision": "28f93ee2157c57e5e90e2cbe4c48e61c",
+    "url": "./static/media/story.28f93ee2.jpg"
   }
 ]);
