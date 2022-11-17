@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0f5f67caf2273c2c5529097f6fb887d",
+    "revision": "10eb91d9bd8a728dbe6a5d355a62776d",
     "url": "./index.html"
   },
   {
-    "revision": "ee72ea1c8973c9be1776",
+    "revision": "8ce3ffed379da2051295",
     "url": "./static/css/2.c78d8c75.chunk.css"
   },
   {
-    "revision": "6f1462416693fe452da4",
-    "url": "./static/css/main.06c68aff.chunk.css"
+    "revision": "e234319ae399dbbf22f1",
+    "url": "./static/css/main.efd3ebc5.chunk.css"
   },
   {
-    "revision": "ee72ea1c8973c9be1776",
-    "url": "./static/js/2.501e26c6.chunk.js"
+    "revision": "8ce3ffed379da2051295",
+    "url": "./static/js/2.b23012e3.chunk.js"
   },
   {
-    "revision": "6f1462416693fe452da4",
-    "url": "./static/js/main.572eabcf.chunk.js"
+    "revision": "e234319ae399dbbf22f1",
+    "url": "./static/js/main.8aacf018.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c91fff83336af5897d91fb4179cc5eff",
     "url": "./static/media/Alice-Regular.c91fff83.ttf"
+  },
+  {
+    "revision": "9dbbd6b9979407a9979f18d45592b520",
+    "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Black.9dbbd6b9.ttf"
   },
   {
     "revision": "e64fc9d01f0600a9faf13ce71c15d0ed",
@@ -196,79 +200,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "2e0596be67fb793e37069bc713ce3839",
-    "url": "./static/media/approval.2e0596be.svg"
-  },
-  {
-    "revision": "5d327ef6659c487263f9af8bb77441c2",
-    "url": "./static/media/bg.5d327ef6.png"
-  },
-  {
-    "revision": "747c0e9675a62d748a6427240fabd605",
-    "url": "./static/media/bg.747c0e96.png"
-  },
-  {
-    "revision": "85f638aa7093651ab65b592cc8156176",
-    "url": "./static/media/camera.85f638aa.png"
-  },
-  {
-    "revision": "57f683bc1131a33d8a0585a459f17960",
-    "url": "./static/media/death.57f683bc.svg"
-  },
-  {
-    "revision": "2453b731d63576a6281366f41374873f",
-    "url": "./static/media/gear.2453b731.png"
-  },
-  {
-    "revision": "ae88680f7ec2d766063c9611e40cd3f2",
-    "url": "./static/media/group.ae88680f.jpg"
-  },
-  {
-    "revision": "b9e58a154331f42026e2c339c9e96f6e",
-    "url": "./static/media/ic_date_celebrity.b9e58a15.svg"
-  },
-  {
-    "revision": "92b0a139a47c4d22d6168606a4faf627",
-    "url": "./static/media/ic_door.92b0a139.svg"
-  },
-  {
-    "revision": "e1f83fe01958d8a7b23157391a667b13",
-    "url": "./static/media/ic_likes.e1f83fe0.svg"
-  },
-  {
-    "revision": "b390be996aaf9883edf9964b4325c2aa",
-    "url": "./static/media/ic_msg.b390be99.png"
-  },
-  {
-    "revision": "d74e16deda7891a5e6401eb776b801f7",
-    "url": "./static/media/ic_time.d74e16de.png"
-  },
-  {
-    "revision": "9076cf20c5e226c27cf664f4ac96b0e6",
-    "url": "./static/media/megaphone.9076cf20.svg"
-  },
-  {
-    "revision": "352587b0b682f25c5ccf444682904954",
-    "url": "./static/media/podium.352587b0.svg"
-  },
-  {
-    "revision": "fcb888b05c4b1cda059ea89f0d42aa07",
-    "url": "./static/media/poster_date_celebrity.fcb888b0.png"
-  },
-  {
-    "revision": "f47f5e9212e6219d85d9322317bd09b5",
-    "url": "./static/media/rocket.f47f5e92.png"
-  },
-  {
-    "revision": "7027a07aaa2c65530e9430a7477f512f",
-    "url": "./static/media/teddy-bear.7027a07a.png"
-  },
-  {
-    "revision": "e7c5d2855f61d9291d4bd41b3d16aa14",
-    "url": "./static/media/thinking.e7c5d285.svg"
-  },
-  {
-    "revision": "6de6aceab83fdc03319da6c3c5119c17",
-    "url": "./static/media/thumbs-up-sign.6de6acea.png"
+    "revision": "28f93ee2157c57e5e90e2cbe4c48e61c",
+    "url": "./static/media/story.28f93ee2.jpg"
   }
 ]);
