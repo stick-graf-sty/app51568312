@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0987b26ace19227a2fa1bb1cfe84a01b",
+    "revision": "ef136d6df9396c66d2d93cdcc81a0950",
     "url": "./index.html"
   },
   {
-    "revision": "cfbba38e04b85fb2e4e5",
+    "revision": "beea2479a26d72897135",
     "url": "./static/css/2.c78d8c75.chunk.css"
   },
   {
-    "revision": "c8246bdea7b4eccc6194",
-    "url": "./static/css/main.b77720ae.chunk.css"
+    "revision": "9fe6f9fc74bbdc248a80",
+    "url": "./static/css/main.cebb0720.chunk.css"
   },
   {
-    "revision": "cfbba38e04b85fb2e4e5",
-    "url": "./static/js/2.b48c5302.chunk.js"
+    "revision": "beea2479a26d72897135",
+    "url": "./static/js/2.682ed627.chunk.js"
   },
   {
-    "revision": "c8246bdea7b4eccc6194",
-    "url": "./static/js/main.87ff5928.chunk.js"
+    "revision": "9fe6f9fc74bbdc248a80",
+    "url": "./static/js/main.7cce5384.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -200,11 +200,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "3738675739451627a6ac2c138599c3e9",
-    "url": "./static/media/main.37386757.svg"
+    "revision": "5f13ed02bf467f2fd5bbedf6433d3951",
+    "url": "./static/media/background.5f13ed02.png"
   },
   {
-    "revision": "a6689cd4b511193c9294bd8c21a2881b",
-    "url": "./static/media/years.a6689cd4.svg"
+    "revision": "073e9d8699dc6200a184d8374836dc41",
+    "url": "./static/media/background_gradient_onboard.073e9d86.png"
+  },
+  {
+    "revision": "9db35407a141723307395e1c95ab3fbc",
+    "url": "./static/media/background_main.9db35407.png"
+  },
+  {
+    "revision": "beb2409954abb250bb0ed57d63a1bd14",
+    "url": "./static/media/modal_access_icon.beb24099.svg"
+  },
+  {
+    "revision": "2bf78379c0aa060250d920a5c321db5f",
+    "url": "./static/media/modal_subscribe_icon.2bf78379.svg"
+  },
+  {
+    "revision": "8c6c5b212bbbabaa7720896b73e7439d",
+    "url": "./static/media/story_bg_0.8c6c5b21.png"
+  },
+  {
+    "revision": "62b10fad2456afc11ad5fd2a76fc3057",
+    "url": "./static/media/story_bg_1.62b10fad.png"
+  },
+  {
+    "revision": "3ca919c7927c75ae963b20b97d85ea76",
+    "url": "./static/media/user_star_outline_28.3ca919c7.svg"
   }
 ]);
