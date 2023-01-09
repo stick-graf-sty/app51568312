@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c870879736f33287bf5fc1133fc31ef7",
+    "revision": "3476ff47df2af367fadcf3a8eca099a2",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.c78d8c75.chunk.css"
   },
   {
-    "revision": "5c9de4c4076465bb35b5",
+    "revision": "369b83d5fef784ae998a",
     "url": "./static/css/main.cebb0720.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.b546dfb3.chunk.js"
   },
   {
-    "revision": "5c9de4c4076465bb35b5",
-    "url": "./static/js/main.fb601ac5.chunk.js"
+    "revision": "369b83d5fef784ae998a",
+    "url": "./static/js/main.c66a8fca.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -200,8 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "5f13ed02bf467f2fd5bbedf6433d3951",
-    "url": "./static/media/background.5f13ed02.png"
+    "revision": "9c4b0a721e8465d41bd9a03bd0a057c9",
+    "url": "./static/media/background_2.9c4b0a72.png"
   },
   {
     "revision": "073e9d8699dc6200a184d8374836dc41",
