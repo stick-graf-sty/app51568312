@@ -1,26 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.cebb0720.chunk.css",
-    "main.js": "./static/js/main.c66a8fca.chunk.js",
-    "main.js.map": "./static/js/main.c66a8fca.chunk.js.map",
+    "main.css": "./static/css/main.b77720ae.chunk.css",
+    "main.js": "./static/js/main.84d5f747.chunk.js",
+    "main.js.map": "./static/js/main.84d5f747.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9d7e574d.js",
     "runtime-main.js.map": "./static/js/runtime-main.9d7e574d.js.map",
     "static/css/2.c78d8c75.chunk.css": "./static/css/2.c78d8c75.chunk.css",
-    "static/js/2.b546dfb3.chunk.js": "./static/js/2.b546dfb3.chunk.js",
-    "static/js/2.b546dfb3.chunk.js.map": "./static/js/2.b546dfb3.chunk.js.map",
+    "static/js/2.80090af6.chunk.js": "./static/js/2.80090af6.chunk.js",
+    "static/js/2.80090af6.chunk.js.map": "./static/js/2.80090af6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.c896e441c2351b573b634e5c9530bc95.js": "./precache-manifest.c896e441c2351b573b634e5c9530bc95.js",
+    "precache-manifest.a77cea3b195a182f35f7fc5c346b0339.js": "./precache-manifest.a77cea3b195a182f35f7fc5c346b0339.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.c78d8c75.chunk.css.map": "./static/css/2.c78d8c75.chunk.css.map",
-    "static/css/main.cebb0720.chunk.css.map": "./static/css/main.cebb0720.chunk.css.map",
+    "static/css/main.b77720ae.chunk.css.map": "./static/css/main.b77720ae.chunk.css.map",
     "static/media/Fonts.css": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf",
-    "static/media/background_2.png": "./static/media/background_2.9c4b0a72.png",
-    "static/media/background_gradient_onboard.png": "./static/media/background_gradient_onboard.073e9d86.png",
-    "static/media/background_main.png": "./static/media/background_main.9db35407.png",
-    "static/media/modal_access_icon.beb24099.svg": "./static/media/modal_access_icon.beb24099.svg",
-    "static/media/modal_subscribe_icon.2bf78379.svg": "./static/media/modal_subscribe_icon.2bf78379.svg",
-    "static/media/story_bg_0.png": "./static/media/story_bg_0.8c6c5b21.png",
-    "static/media/story_bg_1.png": "./static/media/story_bg_1.62b10fad.png",
-    "static/media/user_star_outline_28.3ca919c7.svg": "./static/media/user_star_outline_28.3ca919c7.svg"
+    "static/media/main.37386757.svg": "./static/media/main.37386757.svg",
+    "static/media/years.a6689cd4.svg": "./static/media/years.a6689cd4.svg"
   }
 }

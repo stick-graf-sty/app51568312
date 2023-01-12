@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3476ff47df2af367fadcf3a8eca099a2",
+    "revision": "7bf82788c995156ff433417c2c5c5986",
     "url": "./index.html"
   },
   {
-    "revision": "573b208e2cef0c3498bf",
+    "revision": "340fba3a8980860cc15a",
     "url": "./static/css/2.c78d8c75.chunk.css"
   },
   {
-    "revision": "369b83d5fef784ae998a",
-    "url": "./static/css/main.cebb0720.chunk.css"
+    "revision": "7db728ca135fd72de146",
+    "url": "./static/css/main.b77720ae.chunk.css"
   },
   {
-    "revision": "573b208e2cef0c3498bf",
-    "url": "./static/js/2.b546dfb3.chunk.js"
+    "revision": "340fba3a8980860cc15a",
+    "url": "./static/js/2.80090af6.chunk.js"
   },
   {
-    "revision": "369b83d5fef784ae998a",
-    "url": "./static/js/main.c66a8fca.chunk.js"
+    "revision": "7db728ca135fd72de146",
+    "url": "./static/js/main.84d5f747.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -200,35 +200,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "9c4b0a721e8465d41bd9a03bd0a057c9",
-    "url": "./static/media/background_2.9c4b0a72.png"
+    "revision": "3738675739451627a6ac2c138599c3e9",
+    "url": "./static/media/main.37386757.svg"
   },
   {
-    "revision": "073e9d8699dc6200a184d8374836dc41",
-    "url": "./static/media/background_gradient_onboard.073e9d86.png"
-  },
-  {
-    "revision": "9db35407a141723307395e1c95ab3fbc",
-    "url": "./static/media/background_main.9db35407.png"
-  },
-  {
-    "revision": "beb2409954abb250bb0ed57d63a1bd14",
-    "url": "./static/media/modal_access_icon.beb24099.svg"
-  },
-  {
-    "revision": "2bf78379c0aa060250d920a5c321db5f",
-    "url": "./static/media/modal_subscribe_icon.2bf78379.svg"
-  },
-  {
-    "revision": "8c6c5b212bbbabaa7720896b73e7439d",
-    "url": "./static/media/story_bg_0.8c6c5b21.png"
-  },
-  {
-    "revision": "62b10fad2456afc11ad5fd2a76fc3057",
-    "url": "./static/media/story_bg_1.62b10fad.png"
-  },
-  {
-    "revision": "3ca919c7927c75ae963b20b97d85ea76",
-    "url": "./static/media/user_star_outline_28.3ca919c7.svg"
+    "revision": "a6689cd4b511193c9294bd8c21a2881b",
+    "url": "./static/media/years.a6689cd4.svg"
   }
 ]);
