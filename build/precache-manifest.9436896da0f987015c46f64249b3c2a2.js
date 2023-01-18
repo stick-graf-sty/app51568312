@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eefb65b7a69697014a5ed3fba36017ed",
+    "revision": "0f8f015ca689c4a7afa1a9068d301c06",
     "url": "./index.html"
   },
   {
-    "revision": "a5fcfc292adf98ef94ae",
+    "revision": "bee3012219480cacdf3f",
     "url": "./static/css/2.c78d8c75.chunk.css"
   },
   {
-    "revision": "cf218f73f15668aa9aa4",
-    "url": "./static/css/main.101ec4d7.chunk.css"
+    "revision": "2aebbc40c43284e538be",
+    "url": "./static/css/main.e0bc1ebe.chunk.css"
   },
   {
-    "revision": "a5fcfc292adf98ef94ae",
-    "url": "./static/js/2.45569f76.chunk.js"
+    "revision": "bee3012219480cacdf3f",
+    "url": "./static/js/2.cfd5d8d7.chunk.js"
   },
   {
-    "revision": "cf218f73f15668aa9aa4",
-    "url": "./static/js/main.600cd1ea.chunk.js"
+    "revision": "2aebbc40c43284e538be",
+    "url": "./static/js/main.de86a640.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -270,6 +270,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9076cf20c5e226c27cf664f4ac96b0e6",
     "url": "./static/media/megaphone.9076cf20.svg"
+  },
+  {
+    "revision": "801abaa415648ef8bc6aaccb6d363f11",
+    "url": "./static/media/megaphone2.801abaa4.svg"
   },
   {
     "revision": "352587b0b682f25c5ccf444682904954",
