@@ -7,7 +7,7 @@
 
 </div>
 
-# VK Mini App by avocado
+# VK Mini App
 
 ### Developer
 
