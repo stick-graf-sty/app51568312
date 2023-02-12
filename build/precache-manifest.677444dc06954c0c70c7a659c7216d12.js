@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "914ebf4fae02386d94f44e9049de82ba",
+    "revision": "84c938933dfc537335ffccce6bc59d29",
     "url": "./index.html"
   },
   {
-    "revision": "b09a11bc329835efb4d6",
+    "revision": "1372910493af0fd66477",
     "url": "./static/css/2.c78d8c75.chunk.css"
   },
   {
-    "revision": "00eb8ecab8eafb391265",
-    "url": "./static/css/main.9fd0124d.chunk.css"
+    "revision": "5fb582676da0bf98fca7",
+    "url": "./static/css/main.9ebc102a.chunk.css"
   },
   {
-    "revision": "b09a11bc329835efb4d6",
-    "url": "./static/js/2.90e18081.chunk.js"
+    "revision": "1372910493af0fd66477",
+    "url": "./static/js/2.96c105da.chunk.js"
   },
   {
-    "revision": "00eb8ecab8eafb391265",
-    "url": "./static/js/main.8fa6a787.chunk.js"
+    "revision": "5fb582676da0bf98fca7",
+    "url": "./static/js/main.efc69784.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c91fff83336af5897d91fb4179cc5eff",
     "url": "./static/media/Alice-Regular.c91fff83.ttf"
+  },
+  {
+    "revision": "b45d8c41acb8102c2b6f93eea7acf4db",
+    "url": "./static/media/Board.b45d8c41.svg"
+  },
+  {
+    "revision": "dbf996dde513f7788e3b282be4da5001",
+    "url": "./static/media/Chip.dbf996dd.svg"
   },
   {
     "revision": "9dbbd6b9979407a9979f18d45592b520",
@@ -198,5 +206,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9521fb6878e132c215281e9494e232a",
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
+  },
+  {
+    "revision": "5a0ee5506b3bd1a9c7130080b75f7c38",
+    "url": "./static/media/chip_28.5a0ee550.svg"
+  },
+  {
+    "revision": "3431eceaae5ce446a5990636d274edb0",
+    "url": "./static/media/play_28.3431ecea.svg"
+  },
+  {
+    "revision": "3a875a04ee418575003c67975ed96073",
+    "url": "./static/media/wheel_312.3a875a04.svg"
+  },
+  {
+    "revision": "2db424afef7d9193e325765e4ca4540b",
+    "url": "./static/media/wheel_poly.2db424af.svg"
   }
 ]);
